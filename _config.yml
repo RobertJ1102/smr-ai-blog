@@ -1,1 +1,7 @@
 theme: minima
+title: My Jekyll Blog
+email: Robert.jacobs@wustl.edu
+
+minima:
+  skin: auto
+  include: ["assets/css/custom.css"]
