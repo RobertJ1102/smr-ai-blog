@@ -7,7 +7,7 @@ author: Robert Jacobs
 <head>
   <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 </head>
-
+By Robert Jacobs
 <div style="text-align: center;">
   <img src="https://github.com/RobertJ1102/smr-ai-blog/blob/main/assets/Images/header.png?raw=true" alt="Header">
 </div>
