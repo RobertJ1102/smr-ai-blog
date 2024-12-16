@@ -1,6 +1,7 @@
 ---
 title: "Why Small Modular Reactors Are the Future of Energy Production"
 date: 2024-12-15
+author: Robert Jacobs
 ---
 
 <head>
@@ -11,7 +12,21 @@ date: 2024-12-15
   <img src="https://github.com/RobertJ1102/smr-ai-blog/blob/main/assets/Images/header.png?raw=true" alt="Header">
 </div>
 <br><br>
+
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [AI Energy Consumption](#ai-energy-consumption)
+3. [Current Power Limitations](#current-power-limitations)
+4. [The Nuclear Solution](#the-nuclear-solution)
+5. [Small Modular Reactors](#small-modular-reactors)
+6. [Conclusion](#conclusion)
+
+# Introduction
+
 The explosive growth of artificial intelligence (AI) and machine learning (ML) in recent years has led to many advancements worldwide. However, as with fast growth, there are often a few growing pains. In the case of AI/ML, it is primarily energy consumption. _The Verge_ estimates AI/ML models consume as much energy as the country of Germany, which is an extraordinary amount of power (Calma). The energy usage comes from the training process of AI/ML models, which is extremely computationally expensive and, at large scales, requires power-hungry devices to efficiently compute the mathematical formulas responsible for the “magic” of these models. These extreme energy requirements currently strain existing energy infrastructure in the US, and they are predominantly powered by coal and other harmful fuel sources. A clean and more efficient energy source is required. Luckily, there is one energy source that has been around for a very long time and is known to deliver a high, steady volume of energy: Nclear power. While nuclear energy is a very viable solution, it is not perfect. Setting up a nuclear power plant is expensive and requires extensive infrastructure, which is where Small Modular Reactors (SMRs) begin to shine. SMRs are small reactors that can be deployed on-site to meet energy needs. Given AI’s increasing energy needs, Small Nuclear Reactors offer a modular, scalable, and cost-effective solution to power data centers, addressing environmental and infrastructure concerns.
+
+## AI Energy Consumption
 
 AI and ML refer to technologies that enable machines to learn and detect patterns and use these to make decisions and self-learn over time. Machine Learning is a subset of AI focused on developing algorithms that focus on learning from data without being given specific instructions like code ("Artificial Intelligence" 7). AI traditionally focuses on performing tasks that usually require a human. Both technologies require massive amounts of data and “training,” which takes a lot of computational processing power. When a model is trained, it involves taking millions or billions of data points and running them through slews of mathematical formulas to adjust weights and biases, which, when given inputs, will possibly generate some desired output. The math for training comes in the form of matrix multiplication, which can be performed effectively by devices like Graphics Processing Units (GPUs) and Tensor Processing Units (TPUs). These devices use an extreme amount of energy and are usually needed to run for long periods of time. To put this into perspective, Meta’s AI Llama 3 took roughly 7.7 million GPU hours just to pretrain (Meta). In terms of energy, this is the equivalent of approximately 5.4 million kWH or enough power to support over 500 average US homes for a year.
 
@@ -20,6 +35,8 @@ As AI technology progresses, the energy demands will also continue to increase. 
 <div style="text-align: center;">
   <img src="https://github.com/RobertJ1102/smr-ai-blog/blob/main/assets/Images/image1.png?raw=true" alt="Image1">
 </div>
+
+## Current Power Limitations
 
 Given the immense power demand of AI, the limitations in the current power structure have been highlighted quite well. The dependence on fossil fuels will only worsen as more and more energy will be required to power data centers. Additionally, many electrical grids were not designed for the kind of throughput that is required. According to an analyst at Goldman Sachs, most of the current power grid infrastructure in the US is quite dated at around 40 years old.
 
@@ -32,6 +49,8 @@ The analyst also estimates that the data center power consumption in the US will
 > “The reality is stark: AI operations require uninterrupted power to function optimally. Unlike conventional electricity generation, where output can be adjusted to meet fluctuating demand, renewable sources depend on weather conditions and geographic location. This intermittency poses challenges for maintaining the stability and reliability of the power supply necessary for AI’s computational tasks, which often operate around the clock” (Oldfather).
 
 This dependency on unpredictable weather patterns, such as wind or sunlight for wind turbines or solar panels, makes it challenging for renewable energy to meet the output demanded by data centers. While battery storage solutions exist to help resolve these fluctuations, the current technology is insufficient for long-term energy storage, and battery technology isn’t the most climate-friendly to produce, often requiring heavy metals. Furthermore, expanding renewable energy infrastructure to meet AI consumption requirements would require massive amounts of land, significant investment, and upgrades to power grids.
+
+## The Nuclear Solution
 
 Given these challenges, reliance on renewables alone cannot guarantee the reliable, high-output power that AI technology demands. A more dependable energy source is paramount for a future powering AI without fossil fuels. Fortunately, nuclear power offers a compelling solution to help alleviate some or all of AI’s power problems. As mentioned earlier, nuclear energy offers a combination of high energy output, very low carbon emissions, and high reliability. Under normal running conditions, nuclear reactors provide constant power regardless of the outside weather conditions or other externalities. One key advantage of nuclear power is the incredible energy density of nuclear fuel. For instance, producing the same amount of electricity as 0.015kg of uranium would take 1000 kg of coal (Wegrzyn and Carlini). This extreme energy density means nuclear power can generate vast amounts of energy with minimum fuel and waste, making it space and waste-efficient.
 
@@ -46,6 +65,8 @@ In addition, nuclear power has remarkably low carbon emissions, emitting less th
 </div>
 
 Constructing such a power plant would be extremely costly and time-consuming, often taking years or even decades to complete. Additionally, large-scale nuclear projects often face public outcry due to concerns about nuclear materials—frequently misunderstood risks.
+
+## Small Modular Reactors
 
 Fortunately, SMRs offer a perfect solution to these challenges. SMRs are an innovative advancement in nuclear energy technology, designed to be small, modular, factory-built units that can be deployed quickly and efficiently. SMRs usually produce between 50 MW and 300 MW of energy, making them highly adaptable to modern energy needs, particularly for AI data centers. Their modularity and scalability allow them to be delivered mostly pre-constructed, significantly reducing construction time and costs. The modular design also allows for incremental expansion, making it easy to scale production to meet evolving energy requirements. For instance, if a company opens a new wing on its data center and needs another 50 MW of energy, it could just purchase another unit and add it to its reactor array. In addition, given the size of SMRs, they are highly space-efficient and have a very small footprint, requiring much less land than traditional nuclear reactors. Thomas Hemphill notes some additional benefits:
 
@@ -69,7 +90,15 @@ While Microsoft has not yet announced any specific SMR projects, the company has
 
 Given the high-profile investments into SMR technology, it seems clear that SMRs are poised to play a large role in future energy production and infrastructure. As more tech companies explore SMR technology, these reactors will likely become a cornerstone of sustainable and reliable energy solutions.
 
+## Conclusion
+
 The rapid growth of AI and machine learning presents an unprecedented challenge for the world’s energy infrastructure. Traditional fossil fuels or intermittent renewable sources cannot sustainably meet the extreme power demands of these AI data centers. Renewables offer an option, but their limitations likely make them a non-starter as the sole solution for data centers requiring effectively zero downtime. Nuclear power, particularly SMRs, offers a relatively easy solution to implement, is scalable, has low carbon, and is ultra-reliable. SMRs address all the traditional challenges of conventional nuclear power plants by being modular, easy to deploy, and adaptable to any structural requirement. Investments from big tech companies clearly signal a shift towards adopting SMR technology as the primary energy source for powering data centers. AI will likely continue to grow and change the way the world runs. By integrating SMRs into energy solutions, we can support the future of AI development with a cleaner and safer energy future.
+
+---
+
+## About the Author
+
+Robert Jacobs is a senior Computer Science Major at Washington University in St. Louis, with a passon for software development and server management. He co-founded Syntale LLC, an online gaming network with a global community of nearly 20,000 individuals. Robert has experience developing plugins for games like Unturned and specializes in creating custom solutions for game servers. He has also built an AI-based anti-cheat system that uses deep neural networks to catch misbehaving players. He is also interested in how nuclear technology could be used to replace antiquated energy production methods.
 
 ---
 
