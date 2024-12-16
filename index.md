@@ -98,11 +98,12 @@ The rapid growth of AI and machine learning presents an unprecedented challenge 
 
 ## About the Author
 
-Robert Jacobs is a senior Computer Science Major at Washington University in St. Louis, with a passion for software development and server management. He co-founded Syntale LLC, an online gaming network with a global community of nearly 20,000 individuals. Robert has experience developing plugins for games like Unturned and specializes in creating custom solutions for game servers. He has also built an AI-based anti-cheat system that uses deep neural networks to catch misbehaving players. He is also interested in how nuclear technology can replace antiquated energy production methods.
+Robert Jacobs is a senior at Washington University in St. Louis studying Computer Science. He has a passion for software development and server management and co-founded Syntale LLC, an online gaming network with a global community of nearly 20,000 individuals. Robert has experience developing plugins for games like Unturned and specializes in creating custom solutions for game servers. He has also built an AI-based anti-cheat system that uses deep neural networks to catch misbehaving players. He is also interested in how nuclear technology can replace antiquated energy production methods.
 
 ---
 
-**Works Cited**  
+## Works Cited
+
 Muthuraj and Shrutika Singla. “Artificial Intelligence and Machine Learning.” _Medico Legal Update_, vol. 23, no. 5, Nov. 2023, pp. 6–11. Semantic Scholar, [https://doi.org/10.37506/mlu.v23i5.3458](https://doi.org/10.37506/mlu.v23i5.3458).
 
 Calma, Justine. “AI and Crypto Mining Are Driving up Data Centers’ Energy Use.” _The Verge_, 24 Jan. 2024, [https://www.theverge.com/2024/1/24/24049047/data-center-ai-crypto-bitcoin-mining-electricity-report-iea](https://www.theverge.com/2024/1/24/24049047/data-center-ai-crypto-bitcoin-mining-electricity-report-iea).
