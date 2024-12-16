@@ -10,7 +10,7 @@ date: 2024-12-15
 <div style="text-align: center;">
   <img src="https://github.com/RobertJ1102/smr-ai-blog/blob/main/assets/Images/header.png?raw=true" alt="Header">
 </div>
-
+<br><br>
 The explosive growth of artificial intelligence (AI) and machine learning (ML) in recent years has led to many advancements worldwide. However, as with fast growth, there are often a few growing pains. In the case of AI/ML, it is primarily energy consumption. _The Verge_ estimates AI/ML models consume as much energy as the country of Germany, which is an extraordinary amount of power (Calma). The energy usage comes from the training process of AI/ML models, which is extremely computationally expensive and, at large scales, requires power-hungry devices to efficiently compute the mathematical formulas responsible for the “magic” of these models. These extreme energy requirements currently strain existing energy infrastructure in the US, and they are predominantly powered by coal and other harmful fuel sources. A clean and more efficient energy source is required. Luckily, there is one energy source that has been around for a very long time and is known to deliver a high, steady volume of energy: nuclear power. While nuclear energy is a very viable solution, it is not perfect. Setting up a nuclear power plant is expensive and requires extensive infrastructure, which is where Small Modular Reactors (SMRs) begin to shine. SMRs are small reactors that can be deployed on-site to meet energy needs. Given AI’s increasing energy needs, Small Nuclear Reactors offer a modular, scalable, and cost-effective solution to power data centers, addressing environmental and infrastructure concerns.
 
 AI and ML refer to technologies that enable machines to learn and detect patterns and use these to make decisions and self-learn over time. Machine Learning is a subset of AI focused on developing algorithms that focus on learning from data without being given specific instructions like code ("Artificial Intelligence" 7). AI traditionally focuses on performing tasks that usually require a human. Both technologies require massive amounts of data and “training,” which takes a lot of computational processing power. When a model is trained, it means taking millions or billions of data points and running them through slews of mathematical formulas to adjust weights and biases, which, when given inputs, will possibly generate some desired output. The math for training comes in the form of matrix multiplication, which can be performed effectively by devices like Graphics Processing Units (GPUs) and Tensor Processing Units (TPUs). These devices use an extreme amount of energy and are usually needed to run for long periods of time. To put this into perspective, Meta’s AI Llama 3 took roughly 7.7 million GPU hours just to pretrain (Meta). In terms of energy, this is the equivalent of approximately 5.4 million kWH or enough power to support over 500 average US homes for a year.
@@ -64,8 +64,6 @@ Google has partnered with Kairos Power to build up to seven SMRs capable of prov
 **Amazon**
 
 Amazon, which is making significant investments in SMR technology through its Climate Pledge Fund, has invested $500 million in X-energy during its Series C-1 financing round. This investment is part of a collaboration with X-Energy to bring over 5 GW of power to the US by 2030 (Vincent). Also, Amazon has committed to buying four units for their data centers, planning to increase to 12 (Vincent).
-
-</p>
 
 **Microsoft**
 
