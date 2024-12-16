@@ -12,8 +12,9 @@ The explosive growth of artificial intelligence (AI) and machine learning (ML) i
 
 AI and ML refer to technologies that enable machines to learn and detect patterns and use these to make decisions and self-learn over time. Machine Learning is a subset of AI focused on developing algorithms that focus on learning from data without being given specific instructions like code ("Artificial Intelligence" 7). AI traditionally focuses on performing tasks that usually require a human. Both technologies require massive amounts of data and “training,” which takes a lot of computational processing power. When a model is trained, it means taking millions or billions of data points and running them through slews of mathematical formulas to adjust weights and biases, which, when given inputs, will possibly generate some desired output. The math for training comes in the form of matrix multiplication, which can be performed effectively by devices like Graphics Processing Units (GPUs) and Tensor Processing Units (TPUs). These devices use an extreme amount of energy and are usually needed to run for long periods of time. To put this into perspective, Meta’s AI Llama 3 took roughly 7.7 million GPU hours just to pretrain (Meta). In terms of energy, this is the equivalent of approximately 5.4 million kWH or enough power to support over 500 average US homes for a year.
 
+As AI technology progresses, the energy demands will also continue to increase. According to <i>MarketWatch</i>, AI data centers alone are estimated to consume around 8 terawatt hours (TWH) in 2024. They predict the number to skyrocket to 652 TWH by 2030. The following graph highlights the exponential estimate for energy consumption.
+
 </p>
-As AI technology progresses, the energy demands will also continue to increase. According to _MarketWatch_, AI data centers alone are estimated to consume around 8 terawatt hours (TWH) in 2024. They predict the number to skyrocket to 652 TWH by 2030. The following graph highlights the exponential estimate for energy consumption.
 
 <div style="text-align: center;">
   <img src="https://github.com/RobertJ1102/smr-ai-blog/blob/main/assets/Images/image1.png?raw=true" alt="Image1">
@@ -30,7 +31,9 @@ Given the immense power demand of AI, the limitations in the current power struc
 <p style="font-size: 18px;">
 Goldman also estimates that the data center power consumption in the US will soar to 3.3 billion cubic feet per day of new natural gas demand by 2030, meaning a further reliance on fossil fuels (AI Is Poised to Drive 160% Increase in Data Center Power Demand). They also claim that US cities will need to invest around $50 billion in new capacity just to support data centers. Additionally, the problem only gets worse when alternative energy solutions are investigated. Renewable energy sources are great in most circumstances but have a major flaw: these solutions predominantly rely on weather and environmental conditions. An article from _Life Powered_ puts this well:
 </p>
+
 > “The reality is stark: AI operations require uninterrupted power to function optimally. Unlike conventional electricity generation, where output can be adjusted to meet fluctuating demand, renewable sources depend on weather conditions and geographic location. This intermittency poses challenges for maintaining the stability and reliability of the power supply necessary for AI’s computational tasks, which often operate around the clock” (Oldfather).
+
 <p style="font-size: 18px;">
 This dependency on unpredictable weather patterns, such as wind or sunlight for wind turbines or solar panels, makes it challenging for renewable energy to meet the output demanded by data centers. While battery storage solutions exist to help resolve these fluctuations, the current technology is insufficient for long-term energy storage, and battery technology isn’t the most climate-friendly to produce, often requiring heavy metals. Furthermore, expanding renewable energy infrastructure to meet AI consumption requirements would require massive amounts of land, significant investment, and upgrades to power grids.
 
@@ -52,22 +55,30 @@ Constructing such a power plant is extremely costly and time-consuming, often ta
 Fortunately, SMRs offer a perfect solution to these challenges. SMRs are an innovative advancement in nuclear energy technology, designed to be small, modular, factory-built units that can be deployed quickly and efficiently. SMRs usually produce between 50 MW and 300 MW of energy, making them highly adaptable to modern energy needs, particularly for AI data centers. Their modularity and scalability allow them to be delivered mostly pre-constructed, significantly reducing construction time and costs. The modular design also allows for incremental expansion, making it easy to scale production to meet evolving energy requirements. For instance, if a company opens a new wing on its data center and needs another 50 MW of energy, it could just purchase another unit and add it to its reactor array. In addition, given the size of SMRs, they are highly space-efficient and have a very small footprint, requiring much less land than traditional nuclear reactors. Thomas Hemphill notes some additional benefits:
 
 </p>
+
 > “There are a number of unique benefits identified with SMRs, including the ability to match electricity demand growth (an important consideration for hyperscale—and potentially quantum computing—AI data centers over the next decade); repurpose retired fossil fuel sites; and integrate seamlessly with intermittent renewable sources of energy and energy systems, resilient and highly reliable, self-sufficient micro-grids, and environmentally, the lowest generator of tons of CO₂ equivalent per gigawatt hour (13 tons)” (Hemphill).
+
 <p style="font-size: 18px;">
 Hemphill highlights the critical role that SMRs can play in addressing the evolving needs of AI infrastructure. As data centers continue to grow in size, the demand for computation power will also increase. The ability to match these electricity demands is invaluable in this day and age.
 
 A good way to see if future technology has potential is to look at what large corporations are doing with the technology. In the case of SMRs, Google, Amazon, and Microsoft are all beginning their own projects to implement the technology into their data centers.
 
 </p>
+
 **Google**
+
 <p style="font-size: 18px;">
 Google has partnered with Kairos Power to build up to seven SMRs capable of providing a total of 500 MW of power for their data centers. The first unit is expected to be operational by 2030, with project completion targeted for 2035. Additionally, Google’s involvement goes further than that of a typical customer. Google is actively collaborating with Kairos Power to help the development process of SMR technology. Google plans to use SMRs to supply clean, reliable electricity to their data centers, reinforcing their commitment to achieving 24/7 carbon-free energy goals​ (Vincent).
 </p>
+
 **Amazon**
+
 <p style="font-size: 18px;">
 Amazon, which is making significant investments in SMR technology through its Climate Pledge Fund, has invested $500 million in X-energy during its Series C-1 financing round. This investment is part of a collaboration with X-Energy to bring over 5 GW of power to the US by 2030 (Vincent). Also, Amazon has committed to buying four units for their data centers, planning to increase to 12 (Vincent).
 </p>
+
 **Microsoft**
+
 <p style="font-size: 18px;">
 While Microsoft has not yet announced any specific SMR projects, the company has been actively exploring nuclear technology as part of its sustainability commitment. According to _Forbes_, Microsoft has been seeking a “Principal Program Manager, Nuclear Technology, who will be responsible for maturing and implementing a global Small Modular Reactor (SMR) and microreactor energy strategy” (Eccles). This role reflects Microsoft’s intent to integrate SMR technology into its operations.
 
