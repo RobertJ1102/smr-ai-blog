@@ -3,7 +3,9 @@ title: "Why Small Modular Reactors Are the Future of Energy Production"
 date: 2024-12-15
 ---
 
-![Header](https://github.com/RobertJ1102/smr-ai-blog/blob/main/assets/Images/header.png?raw=true)
+<div style="text-align: center;">
+  <img src="https://github.com/RobertJ1102/smr-ai-blog/blob/main/assets/Images/header.png?raw=true" alt="Header">
+</div>
 
 The explosive growth of artificial intelligence (AI) and machine learning (ML) in recent years has led to many advancements worldwide. However, as with fast growth, there are often a few growing pains. In the case of AI/ML, it is primarily energy consumption. _The Verge_ estimates AI/ML models consume as much energy as the country of Germany, which is an extraordinary amount of power (Calma). The energy usage comes from the training process of AI/ML models, which is extremely computationally expensive and, at large scales, requires power-hungry devices to efficiently compute the mathematical formulas responsible for the “magic” of these models. These extreme energy requirements currently strain existing energy infrastructure in the US, and they are predominantly powered by coal and other harmful fuel sources. A clean and more efficient energy source is required. Luckily, there is one energy source that has been around for a very long time and is known to deliver a high, steady volume of energy: nuclear power. While nuclear energy is a very viable solution, it is not perfect. Setting up a nuclear power plant is expensive and requires extensive infrastructure, which is where Small Modular Reactors (SMRs) begin to shine. SMRs are small reactors that can be deployed on-site to meet energy needs. Given AI’s increasing energy needs, Small Nuclear Reactors offer a modular, scalable, and cost-effective solution to power data centers, addressing environmental and infrastructure concerns.
 
