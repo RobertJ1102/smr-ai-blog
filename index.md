@@ -98,7 +98,7 @@ The rapid growth of AI and machine learning presents an unprecedented challenge 
 
 ## About the Author
 
-Robert Jacobs is a senior Computer Science Major at Washington University in St. Louis, with a passon for software development and server management. He co-founded Syntale LLC, an online gaming network with a global community of nearly 20,000 individuals. Robert has experience developing plugins for games like Unturned and specializes in creating custom solutions for game servers. He has also built an AI-based anti-cheat system that uses deep neural networks to catch misbehaving players. He is also interested in how nuclear technology could be used to replace antiquated energy production methods.
+Robert Jacobs is a senior Computer Science Major at Washington University in St. Louis, with a passion for software development and server management. He co-founded Syntale LLC, an online gaming network with a global community of nearly 20,000 individuals. Robert has experience developing plugins for games like Unturned and specializes in creating custom solutions for game servers. He has also built an AI-based anti-cheat system that uses deep neural networks to catch misbehaving players. He is also interested in how nuclear technology can replace antiquated energy production methods.
 
 ---
 
