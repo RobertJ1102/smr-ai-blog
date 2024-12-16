@@ -3,6 +3,10 @@ title: "Why Small Modular Reactors Are the Future of Energy Production"
 date: 2024-12-15
 ---
 
+<head>
+  <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+</head>
+
 <div style="text-align: center;">
   <img src="https://github.com/RobertJ1102/smr-ai-blog/blob/main/assets/Images/header.png?raw=true" alt="Header">
 </div>
